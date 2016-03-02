@@ -1,1 +1,1 @@
-<html><body><h2>Source of Mozilla is tell me Firefox OS is write in HTML5 one-liner.</h2></body></html>
+<html><body><h2>For every of stakeholder involve in your project is completion of project delay by 6 month.</h2></body></html>
