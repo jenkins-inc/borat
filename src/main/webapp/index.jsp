@@ -1,1 +1,1 @@
-<html><body><h2>For every of stakeholder involve in your project is completion of project delay by 6 month.</h2></body></html>
+<html><body><h2>In startup we can only able use maven if autocorrect is enable.</h2></body></html>
