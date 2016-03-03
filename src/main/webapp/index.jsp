@@ -1,1 +1,1 @@
-<html><body><h2>In startup we are have immediate open for frontend Erlang engineer.</h2></body></html>
+<html><body><h2>In startup developer can able commit line of code only if other developer is remove line of code.</h2></body></html>
