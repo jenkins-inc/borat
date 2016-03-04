@@ -1,1 +1,1 @@
-<html><body><h2>Pair programming is good concept but is involve too many programmer.</h2></body></html>
+<html><body><h2>I manage of delegate 90% of time. 80% of delegate is to my self.</h2></body></html>
