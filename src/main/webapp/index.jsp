@@ -1,1 +1,1 @@
-<html><body><h2>In devops is only necessary for remember two thing: 1) nothing is succeed like failure; 2) nothing is fail like success.</h2></body></html>
+<html><body><h2>Is always user error. Especial in case of user which is operate core router.</h2></body></html>
