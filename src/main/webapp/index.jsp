@@ -1,1 +1,1 @@
-<html><body><h2>Good thing of public cloud is you can able return it in 30 day.</h2></body></html>
+<html><body><h2>Big advantage of run own private cloud is when is go down is only take your site down.</h2></body></html>
