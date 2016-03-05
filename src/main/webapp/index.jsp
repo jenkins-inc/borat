@@ -1,1 +1,1 @@
-<html><body><h2>Small Data is when is fit in RAM. Big Data is when is crash because is not fit in RAM.</h2></body></html>
+<html><body><h2>In startup we are leave critical bug in each of release so we can able fix in next release.</h2></body></html>
