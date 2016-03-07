@@ -1,1 +1,1 @@
-<html><body><h2>Best decision we ever make in startup was outsource all site outage to Cloud provider.</h2></body></html>
+<html><body><h2>Senior devops is walk into bar. Junior devops is walk into server room of bar.</h2></body></html>
