@@ -1,1 +1,1 @@
-<html><body><h2>90% of 5 Why exercise is result in open can of worm.</h2></body></html>
+<html><body><h2>In lean startup we are only use 3rd party software which is enterprise-ready.</h2></body></html>
