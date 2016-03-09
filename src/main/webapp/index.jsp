@@ -1,1 +1,1 @@
-<html><body><h2>Hard part in devops is make money from wheel after you are reinvent it.</h2></body></html>
+<html><body><h2>First requisite of get shit done is be able for deal with lot of shit.</h2></body></html>
