@@ -1,1 +1,1 @@
-<html><body><h2>First requisite of get shit done is be able for deal with lot of shit.</h2></body></html>
+<html><body><h2>Software project 1) On time 2) On budget 3) With quality. You can not able pick any.</h2></body></html>
