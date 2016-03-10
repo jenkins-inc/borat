@@ -1,1 +1,1 @@
-<html><body><h2>For devops manager: if task is take 15 min, then first break into two 30 minute tasks then delegate.</h2></body></html>
+<html><body><h2>In devops we are sometimes drop one 9 out of five 9s because we are get too bored.</h2></body></html>
