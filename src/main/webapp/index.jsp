@@ -1,1 +1,1 @@
-<html><body><h2>Is take most senior devops for introduce most spectacular bug.</h2></body></html>
+<html><body><h2>Junior devops are soon learn lesson of they own their reliability. Senior devops are soon learn lesson of they own their nonreliability.</h2></body></html>
