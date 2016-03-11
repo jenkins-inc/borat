@@ -1,1 +1,1 @@
-<html><body><h2>Mining of Big Data is problem solve in 2013 with zgrep.</h2></body></html>
+<html><body><h2>In 2013 will be configuration management tool of choice as of usual ssh command wrap in for loop in bash script.</h2></body></html>
