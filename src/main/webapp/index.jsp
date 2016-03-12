@@ -1,1 +1,1 @@
-<html><body><h2>In agile startup we have policy of "is not bug, is feature" unless bug is open by CEO.</h2></body></html>
+<html><body><h2>Effect of observer in devops: once you are optimize metric, is lose relevance as metric.</h2></body></html>
