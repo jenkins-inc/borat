@@ -1,1 +1,1 @@
-<html><body><h2>In startup we are only use technology if is cover in blog of expert devops on benchmark is run on own laptop.</h2></body></html>
+<html><body><h2>Cloud is not ready for enterprise if is not integrate with single server running Active Directory.</h2></body></html>
