@@ -1,1 +1,1 @@
-<html><body><h2>I have often see grow devops cry because of spanning tree loop.</h2></body></html>
+<html><body><h2>Conflict resolution is most important skill of manager. In startup we are force all manager for use git.</h2></body></html>
