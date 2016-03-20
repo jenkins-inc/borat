@@ -1,1 +1,1 @@
-<html><body><h2>Best way for explain concept of DevOps to CIO: is like TaskRabbit, but power by The Avengers.</h2></body></html>
+<html><body><h2>If you are senior devops, best gift you can able give junior devops is teach how fail fast.</h2></body></html>
