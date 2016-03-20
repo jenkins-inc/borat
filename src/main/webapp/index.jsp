@@ -1,1 +1,1 @@
-<html><body><h2>Fact: 'shit is happen'. Opinion: 'We are offer SLA of five 9 uptime'.</h2></body></html>
+<html><body><h2>Every web site is evolve until is fail in monetize social graph of its user.</h2></body></html>
