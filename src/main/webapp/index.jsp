@@ -1,1 +1,1 @@
-<html><body><h2>Software project 1) On time 2) On budget 3) With quality. You can not able pick any.</h2></body></html>
+<html><body><h2>Yesterday I have bird and bee discussion with junior devops for make realize cloud instance is born of real hardware.</h2></body></html>
