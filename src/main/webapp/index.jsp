@@ -1,1 +1,1 @@
-<html><body><h2>Distributed database is only as good as network engineer which is in charge of push cable all way in switch port.</h2></body></html>
+<html><body><h2>If unit test are pass 100% of time you are do it wrong.</h2></body></html>
