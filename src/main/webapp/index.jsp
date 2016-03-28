@@ -1,1 +1,1 @@
-<html><body><h2>Devops is intersection of lover of cloud and hater of wake up at 3 in morning.</h2></body></html>
+<html><body><h2>In startup we are work hard but then we are work harder.</h2></body></html>
