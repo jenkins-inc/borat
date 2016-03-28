@@ -1,1 +1,1 @@
-<html><body><h2>In startup we are final master art of agile waterfall.</h2></body></html>
+<html><body><h2>Devops is intersection of lover of cloud and hater of wake up at 3 in morning.</h2></body></html>
