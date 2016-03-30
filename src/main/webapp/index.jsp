@@ -1,1 +1,1 @@
-<html><body><h2>In startup we are leave critical bug in each of release so we can able fix in next release.</h2></body></html>
+<html><body><h2>In devops is only necessary for remember two thing: 1) nothing is succeed like failure; 2) nothing is fail like success.</h2></body></html>
