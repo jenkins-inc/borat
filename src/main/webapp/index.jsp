@@ -1,1 +1,1 @@
-<html><body><h2>In startup we are celebrate teamwork by create many team of one.</h2></body></html>
+<html><body><h2>If is easy of use, then is hard of debug.</h2></body></html>
