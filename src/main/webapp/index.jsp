@@ -1,1 +1,1 @@
-<html><body><h2>Law of sales call: every of vendor is in top 1% of all vendor.</h2></body></html>
+<html><body><h2>Every 2 day outage is start with wide eye dream of change world.</h2></body></html>
