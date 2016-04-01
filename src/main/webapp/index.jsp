@@ -1,1 +1,1 @@
-<html><body><h2>Is always 2 problem in devops because they are out of sync.</h2></body></html>
+<html><body><h2>Devops good news! Devops is 100% peoples and culture so you not have of understand functional programming!</h2></body></html>
