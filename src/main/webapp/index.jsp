@@ -1,1 +1,1 @@
-<html><body><h2>Big Data is any thing which is crash Excel.</h2></body></html>
+<html><body><h2>Distributed database is only as good as network engineer which is in charge of push cable all way in switch port.</h2></body></html>
