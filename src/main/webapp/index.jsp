@@ -1,1 +1,1 @@
-<html><body><h2>Difference of senior programmer and junior programmer is one thousand segfault.</h2></body></html>
+<html><body><h2>If at first you are not succeed, is time for abandon node.js.</h2></body></html>
