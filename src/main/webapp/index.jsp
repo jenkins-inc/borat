@@ -1,1 +1,1 @@
-<html><body><h2>Resolution for year 2013 is cut money pay for cloud in half by run A with no H.</h2></body></html>
+<html><body><h2>Mining of Big Data is problem solve in 2013 with zgrep.</h2></body></html>
