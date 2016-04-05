@@ -1,1 +1,1 @@
-<html><body><h2>In 2013 will be configuration management tool of choice as of usual ssh command wrap in for loop in bash script.</h2></body></html>
+<html><body><h2>Worst failure in devops are happen in high availability architectures (also know as Paradox of RAID Controller Failure).</h2></body></html>
