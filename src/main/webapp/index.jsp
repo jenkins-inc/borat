@@ -1,1 +1,1 @@
-<html><body><h2>For start of new year I am recommend you discard all advice and opinion of cloud expert from last 3 year.</h2></body></html>
+<html><body><h2>In startup we are gamify site outage. Three outage and ops team is out.</h2></body></html>
