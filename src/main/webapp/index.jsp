@@ -1,1 +1,1 @@
-<html><body><h2>Junior devops are soon learn lesson of they own their reliability. Senior devops are soon learn lesson of they own their nonreliability.</h2></body></html>
+<html><body><h2>In agile startup we have policy of "is not bug, is feature" unless bug is open by CEO.</h2></body></html>
