@@ -1,1 +1,1 @@
-<html><body><h2>In devops we are only as good as last success reboot of Cisco core switch.</h2></body></html>
+<html><body><h2>Is take most senior devops for introduce most spectacular bug.</h2></body></html>
