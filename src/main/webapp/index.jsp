@@ -1,1 +1,1 @@
-<html><body><h2>Want of become enemy of ops? Install developer friendly product.</h2></body></html>
+<html><body><h2>In startup we are have immediate open for frontend Erlang engineer.</h2></body></html>
