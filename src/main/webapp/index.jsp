@@ -1,1 +1,1 @@
-<html><body><h2>If shit is never hit fan you are not get enough shit done.</h2></body></html>
+<html><body><h2>Law of sales call: every of vendor is in top 1% of all vendor.</h2></body></html>
