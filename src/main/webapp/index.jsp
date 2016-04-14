@@ -1,1 +1,1 @@
-<html><body><h2>In startup we are always start with plan C.</h2></body></html>
+<html><body><h2>In startup we are pull plug on site periodic so user not get too pamper.</h2></body></html>
