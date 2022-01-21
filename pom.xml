@@ -1,3 +1,15 @@
+starts::/Run::/Runs::/Build::/Script::/"build_script":,
+
+"build_script": "construction":,
+
+"construction": "Automates":,
+
+"Automates": "Automate":,
+
+"Automate": "meta charset= new":,
+
+"meta charset=": "#fedtag_form"::
+-on:
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
@@ -5,7 +17,7 @@
   <artifactId>borat</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>borat Maven Webapp</name>
+  <name>bitore.sig</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -14,8 +26,40 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+test
   </dependencies>
   <build>
-    <finalName>borat</finalName>
+    <finalName>Bitcoin[BTC-USD]_BTCUSD_CCC</finalName>
   </build>
+starts::/Run::/Runs::/Build::/Script::/"build_script":,
+
+"build_script": "construction":,
+
+"construction": "Automates":,
+
+"Automates": "Automate":,
+
+"Automate": "new charset= $ obj":,
+
+"meta charset=": "#fedtag_form":,
+
+
+#{2000}_000000500000
+
+#{31000}_91000022_Securities_and_Exchange_Commission
+
+#{3400}_CIK0001851162_Zachry_Tyler_Wood
+
+#{4200}_CIK0001851162_Zachry_Tyler_Wood
+
+#{4320}_CIK0001851162_Ribbit_Capital_VII,_L.P._364_UNIVERSITY_Avenue_PALO_ALTO_CALIFORNIA,_94301
+
+#{5000}_152307768324
+
+#{6000}_CIK9999999998
+
+
+
+﻿
 </project>
+starts::/Run::/Runs::/Build::/Script::/"build_script
